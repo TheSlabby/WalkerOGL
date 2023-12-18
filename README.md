@@ -5,5 +5,5 @@ Testing OpenGL and working on my own rendering engine with GLAD and GLFW. My sim
 ## Preview
 ![alt text](https://i.imgur.com/Ydxuixe.png)
 
-##TODO
+## TODO
 I plan to implement perspective projection, a simple controllable camera, and a basic lighting engine.
